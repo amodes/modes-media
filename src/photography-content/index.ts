@@ -3,7 +3,7 @@ export const priorityList = ["thailand/k.jpg", "thailand/l.jpg", "thailand/p.jpg
 // TODO maybe add year and places to the object (for hovering)
 export const imageContent = {
   thailand: {
-    paths: ["thailand/a.jpg", "thailand/a2.jpg", "thailand/b.jpg", "thailand/c.jpg", "thailand/d.jpg", "thailand/e.jpg", "thailand/f.jpg", "thailand/g.jpg", "thailand/h.jpg", "thailand/i.jpg", "thailand/j.jpg", "thailand/k.jpg", "thailand/l.jpg", "thailand/m.jpg", "thailand/n.jpg", "thailand/o.jpg", "thailand/p.jpg", "patagonia/q.jpg", "thailand/r.jpg", "thailand/s.jpg", "thailand/t.jpg", "thailand/u.jpg", "thailand/v.jpg", "thailand/w.jpg", "thailand/x.jpg", "thailand/y.jpg", "thailand/z.jpg", "thailand/z2.jpg", "thailand/z3.jpg", "thailand/z4.jpg", "thailand/z5.jpg"],
+    paths: ["thailand/a.jpg", "thailand/a2.jpg", "thailand/b.jpg", "thailand/c.jpg", "thailand/d.jpg", "thailand/e.jpg", "thailand/f.jpg", "thailand/g.jpg", "thailand/h.jpg", "thailand/i.jpg", "thailand/j.jpg", "thailand/k.jpg", "thailand/l.jpg", "thailand/m.jpg", "thailand/n.jpg", "thailand/o.jpg", "thailand/p.jpg", "thailand/q.jpg", "thailand/r.jpg", "thailand/s.jpg", "thailand/t.jpg", "thailand/u.jpg", "thailand/v.jpg", "thailand/w.jpg", "thailand/x.jpg", "thailand/y.jpg", "thailand/z.jpg", "thailand/z2.jpg", "thailand/z3.jpg", "thailand/z4.jpg", "thailand/z5.jpg"],
     title: "Thailand",
   },
   patagonia: {
